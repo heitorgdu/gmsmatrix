@@ -1,0 +1,58 @@
+/* Custom css for Guardian Partners */
+
+.gm_ul, ul {
+    padding-left: 2em;
+}
+.gm_li, ul li {
+    list-style: disc outside none;
+    padding-bottom:6px;
+}
+.techtxt {
+    font-size: 18px;
+    padding-top:12px;
+}
+em, dfn, cite {
+    font-style:italic;
+}
+.techlogo {
+    max-height:35px;
+    max-width:200px;
+    display:block;
+}
+.cname {
+    font-weight: 900;
+    margin-bottom:0px;
+}
+.usp {
+    font-style:italic;
+    margin-top:0px;
+    padding-top:0px;
+}
+.vidframe {
+    background-image:url('http://gp.web.s3.amazonaws.com/images/frameFor800x450video.png');
+    background-repeat: no-repeat;
+    background-position:center;
+    max-width: 100%;
+    height:auto;
+    background-size: contain;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+.contactPic {
+    height:125px;
+    margin-top:5em;
+}
+.techbtn {
+    background-color:3cabda;
+}
+.greenCk {
+    vertical-align:middle;
+    height:20px;
+    width:20px;
+}
+.redX {
+    vertical-align:middle;
+    height:18px;
+    width:18px;
+}

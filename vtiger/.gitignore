@@ -1,0 +1,14 @@
+# IDE & System Related Files #
+.buildpath
+.project
+.settings
+.DS_Store
+.idea
+
+# Test Related Files #
+phpunit-lts.phar
+
+# Composer
+composer.lock
+composer.phar
+/vendor
